@@ -24,7 +24,7 @@ Disclaimer: The code in this project may include calls to APIs ("API Calls") of
  you any rights to use or access any SAP External Product, or provide any third
  parties the right to use of access any SAP External Product, through API Calls.
 
-Files: <YOUR-FILE-OR-FOLDER-LIST>
+Files: vary_matrix_rhs_bounds public_mps public_dec
 Copyright:  2023 SAP SE or an SAP affiliate company and zib-benchmarks contributors
 License: Apache-2.0
 

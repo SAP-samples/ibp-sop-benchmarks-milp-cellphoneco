@@ -34,7 +34,7 @@ These instances differ mainly in the size of the network. They are named in the 
 These instances are similar to the above-mentioned *public_mps* instances, with specific values of *a=6*, *b=3*, *c=40*, and *d=20*. Accordingly, all these instances contain the same number of variables (27710, among which 400 are binary, 400 are general integers, and 26910 are continuous), the same number of constraints (16288), and the same ordering of these variables and constraints. Some entries of the constraint matrix, right-hand side vector, and variable upper bound vector vary across these 50 instances.
 
 ## Requirements
-The benchmark instances are compressed in the .gz format, thus you will need a file archiver software to unpack them. Furthermore, you will need a mathematical solver program that is able to read and to solve files in the MPS format. You will find further information on the standard MPS format [here]( https://en.wikipedia.org/wiki/MPS_(format)).
+The benchmark instances are compressed in the .gz format, thus you will need a file archiver software to unpack them. Furthermore, you will need a mathematical programming solver to read and to solve files in the standard [MPS format](https://en.wikipedia.org/wiki/MPS_(format)).
 
 ## Download and Installation
 Download and unpack the archive files. Then try to solve the resulting .mps files with a mathematical programming solver.

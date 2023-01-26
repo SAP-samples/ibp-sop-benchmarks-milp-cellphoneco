@@ -1,8 +1,6 @@
 # Mixed-Integer Linear Programming (MILP) Benchmarks Based on a Multilevel Supply Chain of a Fictive Cellphone Company
 
-<!--- Register repository https://api.reuse.software/register, then add REUSE badge:
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
--->
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/ibp-sop-benchmarks-milp-cellphoneco)](https://api.reuse.software/info/github.com/SAP-samples/ibp-sop-benchmarks-milp-cellphoneco)
 
 ## Description
 The underlying benchmark instances model the supply chain of a fictive company producing and selling cellphones and accessories of different types. The instances are formulated as typical mixed-integer linear optimization problems in the standard MPS format.

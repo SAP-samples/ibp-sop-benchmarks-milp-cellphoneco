@@ -1,15 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use these benchmarks, please cite them as below."
-authors:
-- family-names: "???"
-  given-names: "???"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "???"
-  given-names: "???"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "???"
+title: IBP SOP Benchmarks MILP CellphoneCo.
+message: 'If you use these benchmarks, please cite them as below.'
 type: dataset
-version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2023-01-26
-url: "https://github.com/github/SAP-samples/ibp-sop-benchmarks-milp-cellphoneco"
+authors:
+  - given-names: Dimitri
+    family-names: Kniasew
+    email: dimitri.kniasew@sap.com
+    affiliation: SAP SE
+  - given-names: Jakob
+    family-names: Witzig
+    email: jakob.witzig@sap.com
+    affiliation: SAP SE
+url: >-
+  https://github.com/SAP-samples/ibp-sop-benchmarks-milp-cellphoneco
+license: Apache-2.0
+commit: b143ec2233479b2f21aa5a2f2c4fbfb3accec2a0
+date-released: '2023-01-26'

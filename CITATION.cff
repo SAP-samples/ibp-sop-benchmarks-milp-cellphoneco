@@ -6,14 +6,7 @@ title: IBP SOP Benchmarks MILP CellphoneCo.
 message: 'If you use these benchmarks, please cite them as below.'
 type: dataset
 authors:
-  - given-names: Dimitri
-    family-names: Kniasew
-    email: dimitri.kniasew@sap.com
-    affiliation: SAP SE
-  - given-names: Jakob
-    family-names: Witzig
-    email: jakob.witzig@sap.com
-    affiliation: SAP SE
+  - given-names: Maintainers and contributors of benchmark repository.
 url: >-
   https://github.com/SAP-samples/ibp-sop-benchmarks-milp-cellphoneco
 license: Apache-2.0

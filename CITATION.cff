@@ -6,7 +6,7 @@ title: IBP SOP Benchmarks MILP CellphoneCo.
 message: 'If you use these benchmarks, please cite them as below.'
 type: dataset
 authors:
-  - given-names: IBP SOP Benchmarks maintainers and contributors.
+  - given-names: IBP SOP Benchmark maintainers and contributors.
 url: >-
   https://github.com/SAP-samples/ibp-sop-benchmarks-milp-cellphoneco
 license: Apache-2.0

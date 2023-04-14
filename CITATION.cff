@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: IBP SOP Benchmarks MILP CellphoneCo.
+title: MILP Benchmarks CellphoneCo.
 message: 'If you use these benchmarks, please cite them as below.'
 type: dataset
 authors:

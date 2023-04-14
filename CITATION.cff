@@ -6,7 +6,7 @@ title: MILP Benchmarks CellphoneCo.
 message: 'If you use these benchmarks, please cite them as below.'
 type: dataset
 authors:
-  - given-names: Dataset maintainers and contributors.
+  - given-names: SAP
 url: >-
   https://github.com/SAP-samples/ibp-sop-benchmarks-milp-cellphoneco
 license: Apache-2.0

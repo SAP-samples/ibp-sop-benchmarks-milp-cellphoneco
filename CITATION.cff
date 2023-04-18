@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MILP Benchmarks CellphoneCo.
+message: 'If you use these benchmarks, please cite them as below.'
+type: dataset
+authors:
+  - given-names: SAP
+url: >-
+  https://github.com/SAP-samples/ibp-sop-benchmarks-milp-cellphoneco
+license: Apache-2.0
+commit: b143ec2233479b2f21aa5a2f2c4fbfb3accec2a0
+date-released: '2023-01-26'

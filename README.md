@@ -43,4 +43,4 @@ Please refer to the [code of conduct](https://github.com/SAP-samples/.github/blo
 ## License
 Copyright (c) 2023 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
 
-*Last Updated 2026-11-20*
+*Last Updated: 2026-11-20*
